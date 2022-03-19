@@ -1,2 +1,2 @@
 # HackerRank
-HackerRank algoritms i solved
+HackerRank questions i solved
