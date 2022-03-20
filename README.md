@@ -1,3 +1,3 @@
 # HackerRank
 HackerRank questions i solved.
-There are solutions under the name of the solved problem.
+The whole question and its solution are in the question file.
